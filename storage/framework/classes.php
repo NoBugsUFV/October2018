@@ -154,4 +154,5 @@
   'System\\Console\\ThemeList' => 'modules/system/console/ThemeList.php',
   'System\\Console\\ThemeUse' => 'modules/system/console/ThemeUse.php',
   'Cms\\Twig\\PutNode' => 'modules/cms/twig/PutNode.php',
+  'System\\Classes\\ErrorHandler' => 'modules/system/classes/ErrorHandler.php',
 );
